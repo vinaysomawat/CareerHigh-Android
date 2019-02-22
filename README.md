@@ -12,7 +12,8 @@ To setup the project on your local machine:
 
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/vinaysomawat/vinaysomawat.github.io.git`
+3. `git clone https://github.com/vinaysomawat/CareerHigh-App.git`
+4. Run project on Android Studio.
 
 To contribute to the project:
 
