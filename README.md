@@ -31,6 +31,3 @@ To send a PR, follow these rules carefully,**otherwise your PR will be closed**:
 
 For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.
 
-
-#### I also published an article on How to convert a website into an Android app from scratch? with Hackernoon publication on Medium.com
-https://hackernoon.com/how-to-convert-a-website-into-an-android-app-from-scratch-de19c84a5801 
