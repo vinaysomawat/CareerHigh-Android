@@ -1,6 +1,11 @@
 # CareerHigh-App
-* This android app shows content of a website www.careerhigh.in for all new posts on website.
-* Read the blog post here : https://hackernoon.com/how-to-convert-a-website-into-an-android-app-from-scratch-de19c84a5801 
+This android app shows content of a website www.careerhigh.in for all new posts on website.
+
+**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
+
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
+
+Related Blog : https://hackernoon.com/how-to-convert-a-website-into-an-android-app-from-scratch-de19c84a5801 
 
 Screenshot of Activites
 
