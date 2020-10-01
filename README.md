@@ -26,13 +26,14 @@ To contribute to the project:
 2. Comment on the issue: `Can I work on this?` and get assigned.
 3. Make changes to your fork and send a PR.
 
-To create a PR:
+To create a PR(pull request):
 
 Follow the given link to make a successful and valid PR: https://help.github.com/articles/creating-a-pull-request/
 
-To send a PR, follow these rules carefully,**otherwise your PR will be closed**:
+To send a PR, follow these rules carefully,**otherwise your PR will be not accepted by the website**:
 
 1. Make PR title in this format: `Fixes #IssueNo : Name of Issue`
 
 For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.
+
 
