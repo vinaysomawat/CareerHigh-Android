@@ -35,4 +35,5 @@ To send a PR, follow these rules carefully,**otherwise your PR will be closed**:
 1. Make PR title in this format: `Fixes #IssueNo : Name of Issue`
 
 For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.
+Please mention the file and fuction name which you have used for understand the newly People.
 

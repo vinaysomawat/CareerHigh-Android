@@ -4,6 +4,7 @@
 #
 # For more details, see
 #   http://developer.android.com/guide/developing/tools/proguard.html
+# Some added image for icone 
 
 # If your project uses WebView with JS, uncomment the following
 # and specify the fully qualified class name to the JavaScript interface
@@ -11,6 +12,8 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+# Undwestand the decalred function for new Guys and people
+# include the all file name which you have used.
 
 # Uncomment this to preserve the line number information for
 # debugging stack traces.
